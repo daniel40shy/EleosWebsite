@@ -1,0 +1,53 @@
+{
+  "payload": {
+    "account_id": "Xpf6gffkTau8m82CtdkA0w",
+    "object": {
+      "uuid": "MfXLNXTVSxmR+G+AkuLSxQ==",
+      "id": 93693219317,
+      "account_id": "Xpf6gffkTau8m82CtdkA0w",
+      "host_id": "kUNOA8suQAq_J1xZGVN5yA",
+      "topic": "Zoom Meeting",
+      "type": 3,
+      "start_time": "2021-10-03T11:57:36Z",
+      "timezone": "America/Edmonton",
+      "host_email": "danielateleosdothealth-zoom@eleos.health",
+      "duration": 3,
+      "total_size": 6428144,
+      "recording_count": 2,
+      "share_url": "*****",
+      "recording_files": [
+        {
+          "id": "51df55e2-4f7d-41ff-bb8d-036b63829e32",
+          "meeting_id": "MfXLNXTVSxmR+G+AkuLSxQ==",
+          "recording_start": "2021-09-03T11:57:37Z",
+          "recording_end": "2021-09-03T12:00:46Z",
+          "file_type": "M4A",
+          "file_extension": "M4A",
+          "file_size": 3018053,
+          "play_url": "****",
+          "download_url": "https://drive.google.com/u/0/uc?id=1AWEtdDtoPxCIF2hznFvQpBddT2Vq0qft&export=download",
+          "status": "completed",
+          "recording_type": "audio_only"
+        },
+        {
+          "id": "c8963dbd-d495-448d-86d9-a4feb1d9f054",
+          "meeting_id": "MfXLNXTVSxmR+G+AkuLSxQ==",
+          "recording_start": "2021-10-03T11:57:37Z",
+          "recording_end": "2021-10-03T12:00:46Z",
+          "file_type": "MP4",
+          "file_extension": "MP4",
+          "file_size": 3410091,
+          "play_url": "****",
+          "download_url": "https://drive.google.com/u/0/uc?id=1AWEtdDtoPxCIF2hznFvQpBddT2Vq0qft&export=download",
+          "status": "completed",
+          "recording_type": "shared_screen_with_speaker_view"
+        }
+      ],
+      "password": "2x*A"
+    }
+  },
+  "event_ts": 1633262487001,
+  "event": "recording.completed",
+  "download_token": "**********",
+  "receiver_utc_iso_time": "2021-10-03T12:01:42Z"
+}
